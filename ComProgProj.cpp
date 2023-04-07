@@ -3,8 +3,6 @@
 #include <cstdlib>
 #include <stdio.h>
 #include <conio.h>
-
-
 using namespace std;
 int main ()
 {
@@ -251,4 +249,3 @@ cout << "===== Computer Programming - SALES COMPUTATION ===== \n\n";
 
 return 0;
 }
-
